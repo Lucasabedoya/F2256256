@@ -1,4 +1,6 @@
 <!-- Salas es un gusano -->
+<!-- Samuel es un perro -->
+
 <?php
     //Controler
     require_once("controller/userController.php");
